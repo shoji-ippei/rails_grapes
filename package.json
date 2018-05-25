@@ -1,0 +1,11 @@
+{
+  "name": "rails_grapes",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "grapesjs": "^0.14.15"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
